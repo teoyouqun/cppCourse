@@ -1,0 +1,9 @@
+D:\Git\cppCourse\workspaces\sectionsOverall\section8TypeCoercionAndCasting\main.cpp
+D:\Git\cppCourse\workspaces\sectionsOverall\section8SectionChallenge\main.cpp
+D:\Git\cppCourse\workspaces\sectionsOverall\section8LogicArithmeticOps\main.cpp
+D:\Git\cppCourse\workspaces\sectionsOverall\section8IncrementAndDecrement\main.cpp
+D:\Git\cppCourse\workspaces\sectionsOverall\section6SectionChallenge\main.cpp
+D:\Git\cppCourse\workspaces\sectionsOverall\section7SectionChallenge\main.cpp
+D:\Git\cppCourse\workspaces\sectionsOverall\section7test02\main.cpp
+D:\Git\cppCourse\workspaces\sectionsOverall\section7CodingEx5\main.cpp
+D:\Git\cppCourse\workspaces\sectionsOverall\section7test01\main.cpp

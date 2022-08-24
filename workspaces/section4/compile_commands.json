@@ -1,0 +1,5 @@
+[{
+  "file": "D:\\Git\\cppCourse\\workspaces\\section4\\project1\\main.cpp",
+  "directory": "D:\\Git\\cppCourse\\workspaces\\section4\\project1",
+  "command": "\"\"C:/Program Files/mingw64/bin/g++.exe\"\" -c D:\\Git\\cppCourse\\workspaces\\section4\\project1\\main.cpp -o D:\\Git\\cppCourse\\workspaces\\section4\\project1\\main.cpp.o  -I. -I.  -g  -O0  -Wall"
+ }]

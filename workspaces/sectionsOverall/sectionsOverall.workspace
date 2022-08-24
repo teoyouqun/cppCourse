@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="sectionsOverall" Database="" Version="10000">
+  <Project Name="section7test01" Path="section7test01/section7test01.project" Active="No"/>
+  <Project Name="section7CodingEx5" Path="section7CodingEx5/section7CodingEx5.project" Active="No"/>
+  <Project Name="section7test02" Path="section7test02/section7test02.project" Active="No"/>
+  <Project Name="section7SectionChallenge" Path="section7SectionChallenge/section7SectionChallenge.project" Active="No"/>
+  <Project Name="section6SectionChallenge" Path="section6SectionChallenge/section6SectionChallenge.project" Active="No"/>
+  <Project Name="section8IncrementAndDecrement" Path="section8IncrementAndDecrement/section8IncrementAndDecrement.project" Active="No"/>
+  <Project Name="section8TypeCoercionAndCasting" Path="section8TypeCoercionAndCasting/section8TypeCoercionAndCasting.project" Active="No"/>
+  <Project Name="section8LogicArithmeticOps" Path="section8LogicArithmeticOps/section8LogicArithmeticOps.project" Active="No"/>
+  <Project Name="section8SectionChallenge" Path="section8SectionChallenge/section8SectionChallenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="section7test01" ConfigName="Debug"/>
+      <Project Name="section7CodingEx5" ConfigName="Debug"/>
+      <Project Name="section7test02" ConfigName="Debug"/>
+      <Project Name="section7SectionChallenge" ConfigName="Debug"/>
+      <Project Name="section6SectionChallenge" ConfigName="Debug"/>
+      <Project Name="section8IncrementAndDecrement" ConfigName="Debug"/>
+      <Project Name="section8TypeCoercionAndCasting" ConfigName="Debug"/>
+      <Project Name="section8LogicArithmeticOps" ConfigName="Debug"/>
+      <Project Name="section8SectionChallenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="section7test01" ConfigName="Release"/>
+      <Project Name="section7CodingEx5" ConfigName="Release"/>
+      <Project Name="section7test02" ConfigName="Release"/>
+      <Project Name="section7SectionChallenge" ConfigName="Release"/>
+      <Project Name="section6SectionChallenge" ConfigName="Release"/>
+      <Project Name="section8IncrementAndDecrement" ConfigName="Release"/>
+      <Project Name="section8TypeCoercionAndCasting" ConfigName="Release"/>
+      <Project Name="section8LogicArithmeticOps" ConfigName="Release"/>
+      <Project Name="section8SectionChallenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

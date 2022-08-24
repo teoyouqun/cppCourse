@@ -1,0 +1,37 @@
+[{
+  "file": "D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section8TypeCoercionAndCasting\\main.cpp",
+  "directory": "D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section8TypeCoercionAndCasting",
+  "command": "\"\"C:/Program Files/mingw64/bin/g++.exe\"\" -c D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section8TypeCoercionAndCasting\\main.cpp -o D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section8TypeCoercionAndCasting\\main.cpp.o  -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section8SectionChallenge\\main.cpp",
+  "directory": "D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section8SectionChallenge",
+  "command": "\"\"C:/Program Files/mingw64/bin/g++.exe\"\" -c D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section8SectionChallenge\\main.cpp -o D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section8SectionChallenge\\main.cpp.o  -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section8LogicArithmeticOps\\main.cpp",
+  "directory": "D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section8LogicArithmeticOps",
+  "command": "\"\"C:/Program Files/mingw64/bin/g++.exe\"\" -c D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section8LogicArithmeticOps\\main.cpp -o D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section8LogicArithmeticOps\\main.cpp.o  -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section8IncrementAndDecrement\\main.cpp",
+  "directory": "D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section8IncrementAndDecrement",
+  "command": "\"\"C:/Program Files/mingw64/bin/g++.exe\"\" -c D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section8IncrementAndDecrement\\main.cpp -o D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section8IncrementAndDecrement\\main.cpp.o  -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section6SectionChallenge\\main.cpp",
+  "directory": "D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section6SectionChallenge",
+  "command": "\"\"C:/Program Files/mingw64/bin/g++.exe\"\" -c D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section6SectionChallenge\\main.cpp -o D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section6SectionChallenge\\main.cpp.o  -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section7SectionChallenge\\main.cpp",
+  "directory": "D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section7SectionChallenge",
+  "command": "\"\"C:/Program Files/mingw64/bin/g++.exe\"\" -c D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section7SectionChallenge\\main.cpp -o D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section7SectionChallenge\\main.cpp.o  -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section7test02\\main.cpp",
+  "directory": "D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section7test02",
+  "command": "\"\"C:/Program Files/mingw64/bin/g++.exe\"\" -c D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section7test02\\main.cpp -o D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section7test02\\main.cpp.o  -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section7CodingEx5\\main.cpp",
+  "directory": "D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section7CodingEx5",
+  "command": "\"\"C:/Program Files/mingw64/bin/g++.exe\"\" -c D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section7CodingEx5\\main.cpp -o D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section7CodingEx5\\main.cpp.o  -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section7test01\\main.cpp",
+  "directory": "D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section7test01",
+  "command": "\"\"C:/Program Files/mingw64/bin/g++.exe\"\" -c D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section7test01\\main.cpp -o D:\\Git\\cppCourse\\workspaces\\sectionsOverall\\section7test01\\main.cpp.o  -I. -I.  -g  -O0  -Wall"
+ }]
