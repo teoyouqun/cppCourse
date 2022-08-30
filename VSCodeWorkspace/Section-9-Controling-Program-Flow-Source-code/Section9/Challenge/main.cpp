@@ -63,12 +63,76 @@ Good luck!
 
 */
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
 int main() {
+    char selectedChar {};
+    int smallestNum {0}, biggestNum {0}, listSize {0}, numToAdd {0};
+    double listTotal {0};
+    vector<int> numList {};
+
+    do {
+        cout << "--------------------\n";
+        cout << "P - Print numbers\n";
+        cout << "A - Add a number\n";
+        cout << "M - Display mean of the numbers\n";
+        cout << "S - Display the smallest number\n";
+        cout << "L - Display the largest number\n";
+        cout << "Q - Quit\n";
+        cout << "--------------------\n";
+        cin >> selectedChar;
+
+        switch(selectedChar) {
+            case 'p':
+            case 'P':
+                if (listSize == 0) cout << "[] - the list is empty" << endl;
+                else {
+                    cout << "[ ";
+                    for (auto num: numList) {
+                        cout << num << " ";
+                    }
+                    cout << "]";
+                }
+                break;
+            case 'a':
+            case 'A': 
+                cout << "Input an integer (no verification here): ";
+                cin >> numToAdd;
+                cout << numToAdd << " added" << endl;
+                numList.push_back(numToAdd);
+                if (numToAdd > biggestNum) biggestNum = numToAdd;
+                if (numToAdd < smallestNum) smallestNum = numToAdd;
+                if (listSize == 0) biggestNum = smallestNum = numToAdd;
+                listTotal += numToAdd;
+                listSize++;
+                break;
+            case 'm':
+            case 'M':
+                if (listSize == 0) cout << "Unable to calculate the mean - no data";
+                else cout << "Mean: " << (listTotal/listSize) << endl;
+                break;
+            case 's':
+            case 'S':
+                if (listSize == 0) cout << "Unable to determine the smallest number - list is empty";
+                else cout << "Smallest Number: " <<smallestNum << endl;
+                break;
+            case 'l':
+            case 'L':
+                if (listSize == 0) cout << "Unable to determine the largest number - list is empty";
+                else cout << "Largest Number: " << biggestNum << endl;
+                break;
+            case 'q':
+            case 'Q':
+                cout << "Goodbye" << endl;
+                break;
+            default:
+                cout << "Unknown selection, please try again" << endl;
+        }
+
+    } while (selectedChar != 'q' && selectedChar != 'q');
     
-    cout << "Hello world" << endl;
     return 0;
 }
 

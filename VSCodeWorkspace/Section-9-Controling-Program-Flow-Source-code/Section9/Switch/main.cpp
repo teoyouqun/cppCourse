@@ -16,7 +16,6 @@ int main() {
     
     cout << "Enter the letter grade you expect on the exam: ";
     cin >> letter_grade;
-    
     switch (letter_grade) {
         case 'a':
         case 'A':
