@@ -30,12 +30,26 @@ Reuse existing functionality in libraries and in the std::string class!
 */
 
 #include <iostream>
+#include <string>
+
+using namespace std;
 
 int main() {
     
     string alphabet {"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"};
     string key  {"XZNLWEBGJHQDYVTKFUOMPCIASRxznlwebgjhqdyvtkfuompciasr"};
     
+    string userInput {};
+    cout << "Enter your secret message: ";
+    getline(cin, userInput); 
+
+    string encodedMsg {};
+    for (char c: userInput) {
+        if (alphabet.find(c) != string::npos)
+            encodedMsg += key[alphabet.find(c)];
+        else encodedMsg += c;
+    }
+    cout << "Your secret message is: " << encodedMsg << endl;
     
     cout << endl;
     return 0;
